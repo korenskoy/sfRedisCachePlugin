@@ -14,6 +14,7 @@ Licence
 
 see LICENSE file
 
+Patches imported from https://github.com/tyx/sfRedisCachePlugin
 
 Requirements
 ------------
